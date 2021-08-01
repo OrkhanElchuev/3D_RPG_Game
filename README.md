@@ -4,6 +4,7 @@ Development is halted at the moment, will be revisited soon.
 Create movement
 
 ## How to play
-
+## How to Download
 ## Contacts 
 - E-mail address orkhan.elchuev@gmail.com
+
