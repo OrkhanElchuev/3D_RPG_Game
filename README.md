@@ -2,6 +2,9 @@
 3D Role-playing game built on Unity.
 Development is halted at the moment, will be revisited soon.
 Create movement
+Create enemies
+Create spawning
+Create missions
 
 ## How to play
 ## How to Download
